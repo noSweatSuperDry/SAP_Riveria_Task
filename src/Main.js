@@ -9,7 +9,7 @@ class Main extends Component {
     return (
       <HashRouter>
         <div>
-          <h1> Single Page Application (SPA)</h1>
+          <h1> Zahid Abdullah</h1>
           <ul className="header">
             <li>
               <NavLink exact="true" to="/">
@@ -17,7 +17,7 @@ class Main extends Component {
               </NavLink>
             </li>
             <li>
-              <NavLink to="/tarina">Story</NavLink>
+              <NavLink to="/tarina">Story and Posts</NavLink>
             </li>
             <li>
               <NavLink to="/yhteys">Contact</NavLink>

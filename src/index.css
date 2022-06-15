@@ -1,5 +1,5 @@
 body {
-  background-color: #FFCC00;
+  background-color: #ffffff;
   padding: 20px;
   margin: 0;
 }
@@ -39,10 +39,10 @@ ul.header li a {
   background-color: #0099FF;
 }
 .imageKoti:hover {
-background-color:#ff0000;
-padding: 20px;
-height: 100px;
-width: 100px;
+background-color:#ffffff;
+padding: 2px;
+height: 200px;
+width: 200px;
 }
 .imageKoti {
   height: 100px;
